@@ -1,7 +1,7 @@
 {
-  "artifact_url": "https://github.com/d4ncboz/technocore",
-  "commit": "692f2af96943acfae8bca910d25ae2b63990325c",
-  "did": "did:key:z6MkqJED4EMffQgdciypq7Scr8XDcAg2R48h1vuhzmk2Vz9m",
   "schema": "technocore-contribution-proof-v1",
-  "signature": "EKL7ur5VidUiNgDcp9j3cRHhl-Jf2Dc2TexiOMwHNumuv70xTYMN7LiQkjPjdup7bP9KS4p0HZC8buB6w6YiAA"
+  "did": "did:key:z6MksFpMjTwsUo3BMTJQanvPckjn4rbngVSqaEhW9yXYfyXf",
+  "artifact_url": "https://github.com/andzis11/technocore",
+  "commit": "d3a442fab3085fa65f504abd7a4376d8e482b4cf",
+  "signature": "oQcDaS41BfA4CGqSiZpoO1qZeL_UERH-8ygX6u0pNUTPVDki6NGpfeBej0ss-FfpVy0b7z2jYWsUsRX-TS5nDg"
 }

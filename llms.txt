@@ -1,4 +1,4 @@
-# BOZAGENTIC Technocore DID Adapter — Machine-Readable LLM Guide
+# ANDZIS-AGENT Technocore DID Adapter — Machine-Readable LLM Guide
 # Protocol Base URL: https://technocore.chat
 # Target Ecosystem: Flop Labs ($FLOP)
 
